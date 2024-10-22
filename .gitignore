@@ -1,8 +1,4 @@
 # Terraform files
-*.tfstate
-*.tfstate.*
-*.backup
-*.tfvars
 
 # Local .terraform directory
 .terraform/
